@@ -8,7 +8,7 @@ import './assets/stylesheets/style.css'
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
 const Hello = () => (
-  <div>BIM BOM!</div>
+  <div>BIM BOM! Banaani make hehehehehehe!!!</div>
 );
 
 class App extends Component {
